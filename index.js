@@ -11,4 +11,5 @@ function myFunction(){
     console.log("Sexo: " + sexo);
     console.log("Nome do pai: " + nomeDoPai);
     console.log("Nome da mãe: " + nomeDaMae);
+    console.table([nome, sobrenome, idade, sexo, nomeDoPai, nomeDaMae]);
 }
